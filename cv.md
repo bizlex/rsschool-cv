@@ -29,37 +29,37 @@ I have been a Salesforce developer since 2020. I graduated from medical universi
 	- Mentoring other QA for Manual and Automated tests
 - **Salesforce Developer** (02/2020 - 09/2023)
 	- *Financial project:*
-			Creation and updating of LWC components for the implementation of the client's business logic;
-			Creation of Visualforce pages with/without render to PDF & sending a user. Added new logic and tested the Apex classes;
-			Designing and deploying Custom tabs, Custom Objects, Components, and another for automating business logic;
-			Worked with LWC, Visualforce, JavaScript;
-			Worked with Apex, Apex Unit Framework, Salesforce UI testing, SOQL, SOSL.
+		- Creation and updating of LWC components for the implementation of the client's business logic;
+		- Creation of Visualforce pages with/without render to PDF & sending a user. Added new logic and tested the Apex classes;
+		- Designing and deploying Custom tabs, Custom Objects, Components, and another for automating business logic;
+		- Worked with LWC, Visualforce, JavaScript;
+		- Worked with Apex, Apex Unit Framework, Salesforce UI testing, SOQL, SOSL.
 	- *Sales:*
-			Creation and updating of Aura, LWC components with standard and custom controllers for the implementation of the client's business logic. Adding new logic and testing Apex classes;
-			Designing and deploying Custom tabs, Custom Objects, Components, and another for automating business logic;
-			Worked with Aura, LWC, JavaScript;
-			Worked with Apex, Apex Unit Framework, Salesforce UI testing, SOQL, SOSL.
+		- Creation and updating of Aura, LWC components with standard and custom controllers for the implementation of the client's business logic. Adding new logic and testing Apex classes;
+		- Designing and deploying Custom tabs, Custom Objects, Components, and another for automating business logic;
+		- Worked with Aura, LWC, JavaScript;
+		- Worked with Apex, Apex Unit Framework, Salesforce UI testing, SOQL, SOSL.
 	- *Banking sector:*
-			Creating a client wizard for a car loan; 
-			Creation of dynamic Aura components with standard and custom controllers for the implementation of the client's business logic; 
-			Integration with external systems using Apex Web services. Designing and deploying Custom tabs, Custom Objects, Components, and another for automating business logic;
-			Worked with Aura, jQuery library, JavaScript, Design Patterns;
-			Worked with Apex, Apex Unit Framework, Salesforce UI testing, SOQL, SOSL;
-			Create an HTTP request.
+		- Creating a client wizard for a car loan; 
+		- Creation of dynamic Aura components with standard and custom controllers for the implementation of the client's business logic; 
+		- Integration with external systems using Apex Web services. Designing and deploying Custom tabs, Custom Objects, Components, and another for automating business logic;
+		- Worked with Aura, jQuery library, JavaScript, Design Patterns;
+		- Worked with Apex, Apex Unit Framework, Salesforce UI testing, SOQL, SOSL;
+		- Create an HTTP request.
 	- *Insurance project:*
-			Improving the system of working with clients; 
-			Creation of dynamic Aura, LWC components with standard and custom controllers for the implementation of the client's business logic; 
-			Integration with external systems using Apex Web services;
-			Designing and deploying Custom tabs, Custom Objects, Components, and another for automating business logic;  
-			Creation of Visualforce pages with/without rendering to PDF & sending a user;
-			Integration with external/internal systems using Apex Web services;
-			Worked with Aura, LWC, Visualforce, Workflow rules, Process Builder, Workbench;
-			Worked with Force.com sites;
-			Worked with Apex, Apex Unit Framework, Salesforce UI testing, SOQL, SOSL;
-			Worked with JQuery, JSZip, Zippex libraries;
-			Create HTTP request;
-			Worked with System integrations involving REST Web Services to integrate/expose data between Salesforce and DocuSing;
-			Worked with batch to update large amount of records.
+		- Improving the system of working with clients; 
+		- Creation of dynamic Aura, LWC components with standard and custom controllers for the implementation of the client's business logic; 
+		- Integration with external systems using Apex Web services;
+		- Designing and deploying Custom tabs, Custom Objects, Components, and another for automating business logic;  
+		- Creation of Visualforce pages with/without rendering to PDF & sending a user;
+		- Integration with external/internal systems using Apex Web services;
+		- Worked with Aura, LWC, Visualforce, Workflow rules, Process Builder, Workbench;
+		- Worked with Force.com sites;
+		- Worked with Apex, Apex Unit Framework, Salesforce UI testing, SOQL, SOSL;
+		- Worked with JQuery, JSZip, Zippex libraries;
+		- Create HTTP request;
+		- Worked with System integrations involving REST Web Services to integrate/expose data between Salesforce and DocuSing;
+		- Worked with batch to update large amount of records.
 - **Family Doctor** (08/2004 - 01/2020)
 # Education
 - Learn Python 2 course (Codecademy)
